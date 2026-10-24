@@ -1,0 +1,8 @@
+Sales-Data-Analysis/
+│
+├── sales_analysis.py
+├── sales_data_5000.csv
+├── README.md
+└── requirements.txt
+
+
