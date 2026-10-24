@@ -86,6 +86,8 @@ Analyzed revenue across different months.
 The project includes the following visualizations:
 
 - Top 10 Products – Bar Chart
+  <img width="866" height="617" alt="image" src="https://github.com/user-attachments/assets/8c16b218-c3e3-4bb3-91b6-be6d48a77762" />
+
 - Revenue by Region – Bar Chart
 - Revenue by Category – Line Chart
 - Distribution of Order Revenue – Histogram
