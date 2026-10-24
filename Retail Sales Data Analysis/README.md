@@ -89,9 +89,17 @@ The project includes the following visualizations:
   <img width="866" height="617" alt="image" src="https://github.com/user-attachments/assets/8c16b218-c3e3-4bb3-91b6-be6d48a77762" />
 
 - Revenue by Region – Bar Chart
+  <img width="810" height="466" alt="image" src="https://github.com/user-attachments/assets/f4fc7e9e-9416-4411-94a9-c9d8038b41c3" />
+
 - Revenue by Category – Line Chart
+  <img width="825" height="468" alt="image" src="https://github.com/user-attachments/assets/be09e7f1-c309-47d4-9ef5-a550479a2f6a" />
+
 - Distribution of Order Revenue – Histogram
+  <img width="865" height="542" alt="image" src="https://github.com/user-attachments/assets/3cb1ff25-d8f1-4b66-a337-1c54c477c31f" />
+
 - Revenue Distribution & Outliers – Box Plot
+  <img width="882" height="642" alt="image" src="https://github.com/user-attachments/assets/8558eef5-945c-49b4-89ec-3775a0a26ced" />
+
 
 ## 💡 Business Insights
 
